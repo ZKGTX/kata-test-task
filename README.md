@@ -1,2 +1,2 @@
 # kata-test-task
-Тестовое задание для kata academy
+Тестовое задание для Kata Academy
